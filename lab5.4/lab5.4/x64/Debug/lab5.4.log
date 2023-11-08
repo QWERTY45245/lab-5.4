@@ -1,0 +1,6 @@
+﻿  lab5.4.cpp
+C:\Users\Admin\source\repos\lab5.4\lab5.4\lab5.4.cpp(9,28): error C3861: 'S0': identifier not found
+C:\Users\Admin\source\repos\lab5.4\lab5.4\lab5.4.cpp(10,33): error C3861: 'S1': identifier not found
+C:\Users\Admin\source\repos\lab5.4\lab5.4\lab5.4.cpp(11,33): error C3861: 'S2': identifier not found
+C:\Users\Admin\source\repos\lab5.4\lab5.4\lab5.4.cpp(12,35): error C3861: 'S3': identifier not found
+C:\Users\Admin\source\repos\lab5.4\lab5.4\lab5.4.cpp(13,35): error C3861: 'S4': identifier not found
